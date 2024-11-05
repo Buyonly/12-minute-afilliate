@@ -1,39 +1,145 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página de Vendas - 12 Minute Affiliate</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>12Minutes Affiliate - Pré-venda</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #5a67d8;
+            color: #fff;
+            padding: 30px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        h2 {
+            margin: 10px 0;
+            font-size: 1.5em;
+        }
+        .section {
+            padding: 20px;
+            background: #fff;
+            margin: 20px 0;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .cta {
+            background: #e53e3e;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+            margin: 20px 0;
+            border-radius: 5px;
+            font-size: 1.2em;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .cta:hover {
+            background: #c53030;
+        }
+        .testimonial {
+            font-style: italic;
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+        }
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
+
+<header>
     <div class="container">
-        <header>
-            <h1>Transforme Sua Vida com o 12 Minute Affiliate</h1>
-        </header>
-        
-        <section class="product-info">
-            <img src="https://via.placeholder.com/800x400?text=12+Minute+Affiliate" alt="12 Minute Affiliate" class="product-image">
-            <p>O <strong>12 Minute Affiliate</strong> é um sistema de marketing afiliado projetado para simplificar o processo de iniciar um negócio online. Com ele, você pode configurar seu sistema de vendas em apenas 12 minutos! Não precisa se preocupar com hospedagem ou criar produtos.</p>
-        </section>
+        <h1>Transforme Sua Vida em Apenas 12 Minutos por Dia!</h1>
+        <h2>Descubra como gerar uma renda passiva consistente com o método 12Minutes Affiliate.</h2>
+    </div>
+</header>
 
-        <section class="benefits">
-            <h2>Benefícios do 12 Minute Affiliate:</h2>
-            <ul>
-                <li>✔️ **Funis de vendas prontos** em nichos populares: Desenvolvimento Pessoal, Saúde e Bem-Estar, e Ganhar Dinheiro Online.</li>
-                <li>✔️ **Automação**: O sistema gerencia o envio de e-mails e o tráfego, permitindo que você se concentre em ganhar comissões.</li>
-                <li>✔️ **Suporte e Comunidade**: Acesso a treinamento ao vivo, equipe de suporte dedicada e um grupo no Facebook para interação.</li>
-                <li>✔️ **Garantia de Satisfação**: Experimente o programa por 60 dias sem risco.</li>
-            </ul>
-        </section>
+<div class="container">
 
-        <section class="call-to-action">
-            <h2>Não Perca Esta Oportunidade!</h2>
-            <p>Inscreva-se agora e comece a transformar sua vida com o 12 Minute Affiliate. Clique no botão abaixo para garantir seu acesso!</p>
-            <button id="cookieButton">Clique Aqui para Comprar!</button>
-        </section>
+    <div class="section">
+        <img src="URL_DA_IMAGEM" alt="Produto 12Minutes Affiliate" style="width:100%; max-width:600px;">
+        <p>O <strong>12Minutes Affiliate</strong> é um sistema inovador que permite a você aprender a gerar comissões de forma simples e rápida, mesmo que você seja um completo iniciante. Com apenas 12 minutos por dia, você pode construir um negócio online rentável.</p>
     </div>
 
-    <script src="script.js"></script>
+    <div class="section">
+        <h3>Benefícios do Produto:</h3>
+        <ul>
+            <li><strong>Aprendizado Rápido:</strong> Método simplificado que qualquer pessoa pode seguir.</li>
+            <li><strong>Sistema Testado:</strong> Mais de [X] alunos satisfeitos já transformaram suas vidas.</li>
+            <li><strong>Flexibilidade:</strong> Trabalhe de qualquer lugar, a qualquer hora.</li>
+            <li><strong>Suporte Completo:</strong> Acesso a uma comunidade e suporte para tirar suas dúvidas.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>Veja o que nossos alunos têm a dizer!</h3>
+        <p class="testimonial">"Eu nunca pensei que poderia ganhar dinheiro online, mas o 12Minutes Affiliate mudou tudo para mim!" - Nome do Cliente</p>
+        <p class="testimonial">"As aulas são curtas e diretas ao ponto. Já estou vendo resultados em menos de um mês!" - Nome do Cliente</p>
+    </div>
+
+    <div class="section">
+        <h3>O que você vai aprender?</h3>
+        <ul>
+            <li>Módulo 1: Introdução ao Marketing de Afiliados</li>
+            <li>Módulo 2: Como Escolher Produtos Lucrativos</li>
+            <li>Módulo 3: Estruturação de Funis de Vendas</li>
+            <li>Módulo 4: Estratégias de Tráfego e Conversão</li>
+            <li>Módulo 5: Automação do seu Negócio</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>Oferta Especial de Pré-venda!</h3>
+        <p>Adquira o <strong>12Minutes Affiliate</strong> agora e ganhe um desconto exclusivo de [X]%! Além disso, receba bônus especiais, como um e-book gratuito e acesso a um grupo VIP.</p>
+        <a href="URL_DA_PAGINA_DE_VENDAS" class="cta">Garanta sua Vaga Agora!</a>
+    </div>
+
+    <div class="section">
+        <h3>100% de Satisfação Garantida!</h3>
+        <p>Se em 30 dias você não estiver satisfeito, devolvemos seu dinheiro sem complicações.</p>
+    </div>
+
+    <div class="section">
+        <h3>Dúvidas? Aqui estão as respostas!</h3>
+        <p><strong>Pergunta:</strong> Preciso de experiência prévia?<br>
+        <strong>Resposta:</strong> Não! O curso é desenvolvido para iniciantes.</p>
+        <p><strong>Pergunta:</strong> Posso realmente ganhar dinheiro com isso?<br>
+        <strong>Resposta:</strong> Sim! O potencial de ganhos é real e muitos alunos estão alcançando resultados significativos.</p>
+    </div>
+    
+</div>
+
+<footer>
+    <p>Informações de Contato: email@exemplo.com | (xx) xxxx-xxxx</p>
+    <p><a href="#" style="color: #fff;">Termos de serviço</a> | <a href="#" style="color: #fff;">Política de privacidade</a></p>
+</footer>
+
 </body>
 </html>
