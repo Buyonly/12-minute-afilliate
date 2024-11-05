@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Vendas - 12 Minute Affiliate</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Transforme Sua Vida com o 12 Minute Affiliate</h1>
+        </header>
+        
+        <section class="product-info">
+            <img src="https://via.placeholder.com/800x400?text=12+Minute+Affiliate" alt="12 Minute Affiliate" class="product-image">
+            <p>O <strong>12 Minute Affiliate</strong> é um sistema de marketing afiliado projetado para simplificar o processo de iniciar um negócio online. Com ele, você pode configurar seu sistema de vendas em apenas 12 minutos! Não precisa se preocupar com hospedagem ou criar produtos.</p>
+        </section>
+
+        <section class="benefits">
+            <h2>Benefícios do 12 Minute Affiliate:</h2>
+            <ul>
+                <li>✔️ **Funis de vendas prontos** em nichos populares: Desenvolvimento Pessoal, Saúde e Bem-Estar, e Ganhar Dinheiro Online.</li>
+                <li>✔️ **Automação**: O sistema gerencia o envio de e-mails e o tráfego, permitindo que você se concentre em ganhar comissões.</li>
+                <li>✔️ **Suporte e Comunidade**: Acesso a treinamento ao vivo, equipe de suporte dedicada e um grupo no Facebook para interação.</li>
+                <li>✔️ **Garantia de Satisfação**: Experimente o programa por 60 dias sem risco.</li>
+            </ul>
+        </section>
+
+        <section class="call-to-action">
+            <h2>Não Perca Esta Oportunidade!</h2>
+            <p>Inscreva-se agora e comece a transformar sua vida com o 12 Minute Affiliate. Clique no botão abaixo para garantir seu acesso!</p>
+            <button id="cookieButton">Clique Aqui para Comprar!</button>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
